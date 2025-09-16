@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://dhineshkumar-2007.github.io/RandomQuoteGenerator/",
+            "request": "launch",
+            "url": "https://dhineshkumar-2007.github.io/RandomQuoteGenerator/"
+        }
+    ]
+}
