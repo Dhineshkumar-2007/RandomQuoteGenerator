@@ -1,4 +1,5 @@
 function fetchapi(){
+    const url = 'https://corsproxy.io/' + encodeURIComponent('https://zenquotes.io/api/random');
     fetch("https://zenquotes.io/api/random")
     .then(response => {
         if (!response.ok) { // Check for HTTP errors
